@@ -10,14 +10,11 @@ This repository contains the practical activities for the **Machine Learning 2**
 
 ## Structure
 
-machine-learning-activities/
+machine-learning-activities-2/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── act1-nonlinear-models/
-│ └── (Activity 1: Non linear models)
-└── (more activities coming...)
-
+└── act1-nonlinear-models/
 
 ## Quick Start
 
@@ -26,6 +23,7 @@ git clone https://github.com/YOUR_USERNAME/machine-learning-activities-2.git
 cd machine-learning-activities
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## Technologies
 - Python 3.8+
