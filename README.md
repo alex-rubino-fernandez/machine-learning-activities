@@ -20,7 +20,7 @@ machine-learning-activities-/
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/machine-learning-activities-2.git
+git clone https://github.com/YOUR_USERNAME/machine-learning-activities.git
 cd machine-learning-activities
 pip install -r requirements.txt
 jupyter notebook
