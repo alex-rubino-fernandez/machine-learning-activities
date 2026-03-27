@@ -9,12 +9,13 @@
 This repository contains the practical activities for the **Machine Learning 2** course, focusing on nonlinear classification models, Support Vector Machines (SVM), kernel methods, and model evaluation.
 
 ## Structure
-
-machine-learning-activities-2/
+```
+machine-learning-activities-/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
 └── act1-nonlinear-models/
+```
 
 ## Quick Start
 
