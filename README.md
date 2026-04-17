@@ -14,7 +14,8 @@ machine-learning-activities-/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── act1-nonlinear-models/
+├── act1-nonlinear-models/
+└── act2-unsupervised-clustering/
 ```
 
 ## Quick Start
