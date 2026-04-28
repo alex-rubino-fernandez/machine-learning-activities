@@ -16,6 +16,7 @@ machine-learning-activities-/
 ├── .gitignore
 ├── act1-nonlinear-models/
 └── act2-unsupervised-clustering/
+└── taller2-dbscan-anomaly-detection/
 ```
 
 ## Quick Start
