@@ -15,7 +15,8 @@ machine-learning-activities-/
 ├── requirements.txt
 ├── .gitignore
 ├── act1-nonlinear-models/
-└── act2-unsupervised-clustering/
+├── act2-unsupervised-clustering/
+├── act3-emergency-triage-clustering/
 └── taller2-dbscan-anomaly-detection/
 ```
 
